@@ -2,7 +2,7 @@
 
 Comprehensive test automation suite for [SauceDemo](https://www.saucedemo.com) using Cypress.
 
-## 📋 Overview
+## Overview
 
 This project contains a complete end-to-end test automation framework covering all functional aspects of the SauceDemo e-commerce application with extensive positive, negative, and edge case scenarios.
 
@@ -94,7 +94,7 @@ automation/
 - Session management
 - Data persistence
 
-## 📊 Test Assertions
+## Test Assertions
 
 Comprehensive assertions covering:
 - Element visibility and state
@@ -116,5 +116,3 @@ The application provides multiple test users:
 - `visual_user` - User with visual differences
 
 Password for all users: `secret_sauce`
-
- use the Page Object Model pattern for maintainability.
